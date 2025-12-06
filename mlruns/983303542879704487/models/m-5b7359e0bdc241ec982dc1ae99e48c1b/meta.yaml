@@ -1,0 +1,10 @@
+artifact_location: file:///C:/03_Productos/PRE-07-mlflow-tracking-basico-kcastanoa/mlruns/983303542879704487/models/m-5b7359e0bdc241ec982dc1ae99e48c1b/artifacts
+creation_timestamp: 1765034524643
+experiment_id: '983303542879704487'
+last_updated_timestamp: 1765034528641
+model_id: m-5b7359e0bdc241ec982dc1ae99e48c1b
+model_type: null
+name: model
+source_run_id: aadac87942194b98a67a9d2f2a5eebf9
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/03_Productos/PRE-07-mlflow-tracking-basico-kcastanoa/mlruns/983303542879704487/ec21efd9c403463fb7008554e781bd1e/artifacts
+end_time: 1765034540887
+entry_point_name: ''
+experiment_id: '983303542879704487'
+lifecycle_stage: active
+run_id: ec21efd9c403463fb7008554e781bd1e
+run_name: knn_c0b8e766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765034537316
+status: 3
+tags: []
+user_id: karla

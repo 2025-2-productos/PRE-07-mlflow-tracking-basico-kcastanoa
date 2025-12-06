@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/03_Productos/PRE-07-mlflow-tracking-basico-kcastanoa/mlruns/983303542879704487/31137f0ab2344ef29caf3f6064b946ed/artifacts
+end_time: 1765034581996
+entry_point_name: ''
+experiment_id: '983303542879704487'
+lifecycle_stage: active
+run_id: 31137f0ab2344ef29caf3f6064b946ed
+run_name: elasticnet_bf596e53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765034574785
+status: 3
+tags: []
+user_id: karla
